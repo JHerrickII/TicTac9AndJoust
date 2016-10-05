@@ -1,0 +1,40 @@
+Tic-Tac-Nine 2110 Project:
+John Herrick (jah6vg)
+Will Sherrerd-Smith (wws2a)
+Danny Mcnamara (djm3am)
+Anish Doshi (apd4hy)
+
+This game operates as follows: Two players decide who wants to be
+"Cav Man" or "Sabres." Calling the "Runner" class will initiate a 
+game of Tic-Tac-Nine. Whoever is "Cav Man" will go first and pick
+a cell. That cell will open up and start a regular game of 
+Tic-Tac-Toe where whoever goes first is randomly determined. Whoever
+wins the game of Tic-Tac-Toe will have their symbol (Cav Man or Sabres)
+on the cell which was picked, and then that winner picks the next cell.
+This proceeds until a winner is determined on the large board, and the
+game will notify who won or if there is a tie once someone clicks 
+another cell on the board and give the option to play again or exit.
+
+In the case of a tie on the Tic-Tac-Toe board, the players have a choice
+to either reset the game again OR leave that cell and have the opposite 
+of the person who picked the previous cell choose the next cell to play.
+However, the players will also have a chance to test their luck in a game
+of JOUST as well, where each player will control a bird and try to jump on
+each other's heads. Each time a player lands on their opponent's head, they
+score a point. At 3 points, a winner is determined, and they players indicate
+who won on the side pop-up window to the right. Whoever won the JOUST game, 
+gets that cell. BIRDS ARE CONTROLED WITH THE "A,S" BUTTONS FOR THE LEFT RED
+BIRD, AND "K,L" BUTTONS FOR THE RIGHT GREEN BIRD. When the game of JOUST is
+complete, pick the winner to the right, then close the JOUST window and 
+continue playing. There is no JOUST option in the larger Tic-Tac-Nine board. 
+In the case of an overall tie in Tic-Tac-Nine, the only options are to either
+reset the overall game or exit the game altogether.
+
+EXTRA FEATURES:
+-A playable mini-game JOUST that opens in the case of a tie.
+-Randomized starters for Board
+-UVA themed Icons for X and O
+
+
+
+
